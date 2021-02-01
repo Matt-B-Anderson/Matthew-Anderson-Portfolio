@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Matthew-Anderson-Portfolio/static/css/main.9781aa79.chunk.css",
+    "main.js": "/Matthew-Anderson-Portfolio/static/js/main.3f7fdcfc.chunk.js",
+    "main.js.map": "/Matthew-Anderson-Portfolio/static/js/main.3f7fdcfc.chunk.js.map",
+    "runtime-main.js": "/Matthew-Anderson-Portfolio/static/js/runtime-main.39fdc24a.js",
+    "runtime-main.js.map": "/Matthew-Anderson-Portfolio/static/js/runtime-main.39fdc24a.js.map",
+    "static/js/2.225571f1.chunk.js": "/Matthew-Anderson-Portfolio/static/js/2.225571f1.chunk.js",
+    "static/js/2.225571f1.chunk.js.map": "/Matthew-Anderson-Portfolio/static/js/2.225571f1.chunk.js.map",
+    "index.html": "/Matthew-Anderson-Portfolio/index.html",
+    "static/css/main.9781aa79.chunk.css.map": "/Matthew-Anderson-Portfolio/static/css/main.9781aa79.chunk.css.map",
+    "static/js/2.225571f1.chunk.js.LICENSE.txt": "/Matthew-Anderson-Portfolio/static/js/2.225571f1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Matthew-Anderson-Portfolio/static/media/taggert lake 2020.2d54f568.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39fdc24a.js",
+    "static/js/2.225571f1.chunk.js",
+    "static/css/main.9781aa79.chunk.css",
+    "static/js/main.3f7fdcfc.chunk.js"
+  ]
+}
